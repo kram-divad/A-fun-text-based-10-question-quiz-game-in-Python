@@ -69,4 +69,6 @@ def run_quiz(questions):
 
 run_quiz(questions)
 
+input("Press Enter to exit...")
+
         
